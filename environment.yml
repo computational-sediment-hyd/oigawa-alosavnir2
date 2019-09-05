@@ -1,3 +1,5 @@
 dependencies:
   - pyviz 
-  - nbserverproxy
+  - pip
+  - pip:
+    - jupyter-server-proxy
