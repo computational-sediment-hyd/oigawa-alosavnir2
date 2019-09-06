@@ -12,4 +12,4 @@ WORKDIR /app
 
 COPY  main.ipynb /app
 
-# COPY data/ /app/data/
+COPY data/ /app/data/
