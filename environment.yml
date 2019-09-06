@@ -1,9 +1,0 @@
-dependencies:
-  - nbserverproxy
-  - numpy
-  - xarray
-  - pandas
-  - cartopy
-  - pyviz::hvplot
-  - pyviz::holoviews
-  - pyviz::geoviews
